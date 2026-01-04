@@ -43,3 +43,6 @@ Cybersecurity/
 │ └── Recover.md
 └── README.md
 
+---
+    > Following the NIST CSF helps organizations **manage cybersecurity risk in a structured and consistent way**, making security proactive rather than reactive.
+wing the NIST CSF helps organizations **manage cybersecurity risk in a structured and consistent way**, making security proactive rather than reactive.
