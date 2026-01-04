@@ -34,5 +34,12 @@ Each section explains **key practices, example controls, and why it matters** in
 ---
 
 ## Recommended Repo Structure
-
+Cybersecurity/
+├── NIST/
+│ ├── Identify.md
+│ ├── Protect.md
+│ ├── Detect.md
+│ ├── Respond.md
+│ └── Recover.md
+└── README.md
 
